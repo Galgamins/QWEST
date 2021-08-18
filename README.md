@@ -202,7 +202,7 @@ Now we'll go back to the presets downloaded
 Know that you can switch any ini at anytime during your gameplay, so if you want to compare between the 2 that I recommend, you can totally do that in game.
 
 ## Changes to Gameplay
-Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Qwest/blob/main/Changes%20to%20Gameplay.md) for a non-exhaustive list of changes in Tinvaak.
+Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Qwest/blob/main/Changes%20to%20Gameplay.md) for a non-exhaustive list of changes in Qwest.
 
 ## Personalisation
 
