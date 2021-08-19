@@ -1,6 +1,6 @@
 # QWEST!
 
-Wabbajack Modlist Installer by Althro & The Qwest Team
+Wabbajack Modlist Installer by Althro & The QWEST Team
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/qwest/badge.json)
 
@@ -40,7 +40,7 @@ Wabbajack Modlist Installer by Althro & The Qwest Team
 
 # Preamble
 
-Designed to be a "Mighty Modlist for Mini Machines", Qwest was born after a few people were talking about how some people they knew couldn't enjoy a modded Sykrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In Qwest, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
+Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Sykrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
 
 The list was originally created by Sovn and was passed to myself and my team after Sovn wished to stop working on the list. If you have any queries regarding the list, please ask them in the [Wabbajack Discord](https://discord.gg/wabbajack).
 
@@ -107,7 +107,7 @@ To prepare the download, and make sure Wabbajack doesn't stall on those files; d
 
 1. Open Wabbajack and click on browse modlists.
 2. Download the modlist from the Wabbajack UI.
-3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Qwest`). The downloads path should automatically fill in the installation path.
+3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/QWEST`). The downloads path should automatically fill in the installation path.
 4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
 5. Select the created folder in 4. as your downloads folder. Place the downloaded MEGA files above AS IS in the downloads folder.
 6. Click the Go/Begin button
