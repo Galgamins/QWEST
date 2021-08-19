@@ -1,4 +1,4 @@
-# 4.0 - The Journey Begins
+# 4.0 - Go Team!
 
 ***NOT SAVE FILE COMPATIBLE***
 
