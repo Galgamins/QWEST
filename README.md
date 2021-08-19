@@ -523,10 +523,6 @@ The way of becoming a thane of Whiterun is changed. Complete The Blessings of Na
 
 Not supported.
 
-## Inigo...?
-
-SoonTM.
-
 ## I want to support your work!
 
 I would advise you to donate to [Wabbajack](https://www.patreon.com/user/overview?u=11907933) first, but if you wish to support me you can do so [here](https://www.patreon.com/Althro).
@@ -542,8 +538,12 @@ I would advise you to donate to [Wabbajack](https://www.patreon.com/user/overvie
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and my server, I would advise checking the [Issues](https://github.com/Althro/QWEST/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+
+## Contributing
+
+See [Contributing](https://github.com/Althro/QWEST/blob/main/CONTRIBUTING.md).
 
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/QWEST/blob/main/Changelog.md).
+See [Changelog](https://github.com/Althro/QWEST/blob/main/Changelog.md).
