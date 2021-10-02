@@ -1,8 +1,10 @@
 # QWEST!
 
+![QWEST-banner](https://raw.githubusercontent.com/Althro/QWEST/main/QWEST_New.webp?token=AQ4T6WOOLOYTZRJ54WSH3W3BLDSXW)
+
 Wabbajack Modlist Installer by The QWEST DEV Team
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/qwest/badge.json) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
