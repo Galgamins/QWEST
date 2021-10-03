@@ -2,7 +2,7 @@
 
 ![QWEST-banner](https://raw.githubusercontent.com/Althro/QWEST/main/QWEST_New.webp?token=AQ4T6WOOLOYTZRJ54WSH3W3BLDSXW)
 
-Wabbajack Modlist Installer by The QWEST DEV Team
+Wabbajack Modlist Installer by The Animonculory.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -51,7 +51,7 @@ This work is licensed under a
 
 # Preamble
 
-Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Sykrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
+Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Skyrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
 
 The list was originally created by Sovn and was passed to myself and my team after Sovn wished to stop working on the list. If you have any queries regarding the list, please ask them in the [Wabbajack Discord](https://discord.gg/wabbajack).
 
@@ -302,13 +302,25 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 ## Personalisation
 
-`tbc`
+- Survival. Simply turn off SunHelm in the mcm menu. **DO NOT DISABLE IT IN MOD ORGANIZER.** If you do not want to bathe, adjust Dirt&Blood in the mcm. **DO NOT TOUCH THE KEEP IT CLEAN MCM. YOU WILL BREAK EVERYTHING IF YOU DO. NO TOUCHIES. DO NOT PASS GO. DO NOT COLLECT $200.**
+
+- [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of these depending on what you want.
+
+- [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
+
+- [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an Oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png).
+
+- NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile.
+
+- [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
+
+- [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below.
+Upon pressing New Game, you will spawn on the walls of Helgen burning down. Use your mouse to manually click away the pop-ups. **DO NOT PRESS ENTER**. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below. **Use your mouse and do not press enter until you are done with MCM's +otherwise you will break stuff.**
 
 If you press enter, you will be teleported to a location where you will be able to personalize your character.
 After confirming your character, never use showracemenu to change its race or sex; you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
@@ -327,7 +339,147 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## In-Game MCM Options
 
-`tbc`
+#### AGO
+- Settings
+  - Enable/Disable
+    - Bow Camera : Disabled
+    - Bow Crosshair : Disabled
+    - Arrow Wounds (Player) : Disabled
+    - Arrow Wounds (NPCs) : Disabled
+    - Persistant Arrows : Disabled
+    
+#### All Geared up Derivative
+- Weapons - Player
+    - Shield Stay on arm while Equipped: Enable
+    - Toggle un/equipping Torso Armor: Enable 
+- Misc. Player :
+  - Require Torso Armor : Enabled
+  - (you can tweak stuff showing on you whenever you want, if something bothers you)
+- NPC :
+  - Enable Weapons : Enabled
+
+#### Diverse Dragons Col. 3
+- Dragons
+  - Nether Dragon : Disabled
+  - Sanguine Dragon : Disabled
+  - Vile Dragon : Disabled
+
+#### EVG Conditional Idles
+- Player 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+- NPC 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+
+#### Follower Framework
+- System :
+- Settings
+  - Load From File
+
+#### Growl Werebeasts (EnaiRim)
+- Features
+  - Invulnerable During Transformation: Enabled
+- If you want to be a Werebear instead:
+  - Immersion : Werebear : Enabled
+
+#### Heartbreaker (Optional) 
+- Main Settings
+    - Learn Spell Power: Enabled
+  
+#### Immersive HUD
+- Activation
+  - Compass Activation
+    - Key press toggles : Enabled
+
+#### Immersive W. Encounters
+- NEW EVENTS
+  - NPCs: Jarl's Housecarls: Disabled (causes issues)
+
+#### LOTD Settings
+- LOTD Settings → General → Shippment Crate Locations : 
+  - Carriages: Enabled
+  - Inns: Enabled
+  - Player Houses: Enabled
+  - A lot of stuff is very nice in LOTD's MCMs, you should check them all just to know what they do, it'll be useful on the long run.
+
+#### moreHUD
+- Presets
+  - Save Settings with FISS
+    - Load User Settings? : GO
+
+#### OBIS - Bandits
+- Leave as is unless you want more bandits to fight.
+
+#### Radiant Requirements
+- Settings
+  - Draugr Crypt 5
+  - Forsworn Camp: 5
+  - Vampire Lair : 10
+  - Falmer Hive: 10
+
+#### SkyUI
+- General → Item List :
+  - Font Size : Small
+  - Category Icon Theme : CELTIC
+- Advanced → SWF Version Checking : 
+  - Map Menu : Disabled
+  - Favorites Menu : Disabled
+  - Inventory Menu : Disabled
+  - Barter Menu : Disabled
+  - Container Menu : Disabled
+  - Crafting Menu : Disabled
+
+#### SmoothCam  -for 3rd person players-
+- Presets
+  - Load Preset
+    There are two presets available for you to use. I personally prefer the Modern one but some prefer EasyEase's, try both and see which you like!
+- Compatibility 
+  - Archery Gameplay Overhaul: Enabled
+  - Only this one needs to be enabled!
+
+### Sunhelm (Do This after character creation and you have spawned into the world.)
+- General Settings
+	- Gameplay Options
+		- Toggle Raw Meat Damage [unchecked]
+		- Toggle Carry Weight Penalty [unchecked]
+		- Toggle Fast Travel [Uncheck(Only if you want to fast travel. Leave as is otherwise)]
+    
+#### Tentapalooza (Survival)
+- Set all tents in all tabs as "Rain and Snow" instead of "No Protection"
+    
+#### The Ultimate Dodge Mod  
+ - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
+   - A Keybinding example would be:
+      - Vanilla Sneak key within Options: C
+      - Sneak key within TUDM's MCM: Left Control
+  - Now your character will roll/sidestep with C and Sneak with Left Control
+  - I also would recommend to use sidestep (personal preference)
+  - Please Note: 
+    - You cannot dodge in the Starting Cell, you need to choose a path first.
+    - **The first time you dodge, you'll be stuck in a weird position in the air. Press G (or your dodge swap key) twice to be unstuck.**
+
+- Npc Settings :
+  - NPC Dodge AI: Disabled
+
+#### Thieves Guild Requirements
+- Misc Options 
+  - Load Preset  
+Cycle through all the tabs
+ - Load Preset again (now it will stick)
+  
+#### Timing is Everything
+- Extra Options 
+  - Load Preset  
+Cycle through all the tabs
+ - Load Preset again (now it will stick)
+
+#### VioLens
+- Load Preset
+
+#### Wildcat (EnaiRim)
+- Disable Injuries: Enabled
+- Allow Wildcat to manage difficulty: Enabled
 
 ## How to start playing
 
@@ -335,8 +487,6 @@ After you finish customizing all the MCMs, the last thing to check is the Skyrim
 Anything else in that menu can be customized to your liking. When you're ready, simply press the Start Adventure button in the Unbound MCM. You will then be prompted to create your character as usual.
 
 Please Note: Do NOT change sex or race with showracemenu after first confirming your character.
-
-## FAQ
 
 ## FAQ
 
@@ -408,9 +558,9 @@ I would advise you to donate to [Wabbajack](https://www.patreon.com/user/overvie
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Sovn for the creation of Qwest and allowing the team to take it over. This list would not exist without him intially creating it.
-- Chanka, Mint, Shuckleberry, Chris and Spaniard for making up the Qwest Team.
+- Chanka, Mint, Shuckleberry, Chris, Croc and Spaniard for making up the Qwest Team.
 - zino for testing 2.0 and onwards updates, allowing for accurate feedback on performance for 2GB GPUs.
-- Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
+- My Amazing patrons
 
 ## Contact
 
