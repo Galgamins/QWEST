@@ -1,6 +1,6 @@
 # Noteworthy Mods and what gameplay to expect.
 
-Qwest has two profiles of your choosing, with default profile utilizing the [EnaiRim suite](https://www.nexusmods.com/skyrimspecialedition/users/3959191) of mods, or the [Simonrim Suite],(https://www.nexusmods.com/skyrimspecialedition/users/67410746) if you choose the Simonrim profile, to provide the bulk of the perk/player character changes. 
+Qwest has two profiles of your choosing, with default profile utilizing the [EnaiRim suite](https://www.nexusmods.com/skyrimspecialedition/users/3959191) of mods, or the [Simonrim Suite](https://www.nexusmods.com/skyrimspecialedition/users/67410746), if you choose the Simonrim profile, to provide the bulk of the perk/player character changes. 
 
 ## Survival
 If you chose to not make any modifications and go with the survival mods, you will have way more micromanagement to do.
