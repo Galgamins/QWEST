@@ -1,4 +1,5 @@
 # Noteworthy Mods and what gameplay to expect.
+Almost every aspect of vanilla gameplay in QWEST! has been changed in some way. If something feels different from the vanilla game, it's almost certainly intentional and is not a bug. This document details the major changes that are present in the list along with mods that you should know about going into playing this list.
 
 Qwest has two profiles of your choosing, with default profile utilizing the [EnaiRim suite](https://www.nexusmods.com/skyrimspecialedition/users/3959191) of mods, or the [Simonrim Suite](https://www.nexusmods.com/skyrimspecialedition/users/67410746), if you choose the Simonrim profile, to provide the bulk of the perk/player character changes. 
 
