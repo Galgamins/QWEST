@@ -1,4 +1,6 @@
-# Khisrith
+# QWEST
+
+![QWEST-banner](https://raw.githubusercontent.com/Althro/QWEST/main/QWEST_New.webp?token=AQ4T6WOOLOYTZRJ54WSH3W3BLDSXW)
 
 Wabbajack Modlist Installer by The Animonculory.
 
@@ -49,7 +51,7 @@ This work is licensed under a
 
 # Preamble
 
-Designed to be a "Mighty Modlist for Mini Machines", Khisrith was created to allow those with lower spec machines to enjoy a modded Skyrim. The list features a graphical suite which has been meticulously tested and hand picked to ensure the perfect balance of qualitry to performance, whilst also being friendly to users with 2GB of vram. If you can run the base game, you shoould be able to run this. In Khisrith, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. Do not expect vanilla gameplay. Many aspects have been changed from the original game. There are many more changes which are detailed in the changes to [gameplay file](https://github.com/Althro/Khisrith/blob/main/Changes%20to%20Gameplay.md).
+Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Skyrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. Do not expect vanilla gameplay. Many aspects have been changed from the original game. There are many more changes which are detailed in the changes to [gameplay file](https://github.com/Althro/QWEST/blob/main/Changes%20to%20Gameplay.md).
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
@@ -85,7 +87,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-Due to the way Khisrith is setup is setup, I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
+Due to the way Khisrith is setup is setup, I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 ### It is *vital* that your Binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
 
