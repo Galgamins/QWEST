@@ -298,9 +298,7 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 ## Personalisation
 
-- Survival. Simply turn off SunHelm in the mcm menu. **DO NOT DISABLE IT IN MOD ORGANIZER.** If you do not want to bathe, adjust Dirt&Blood in the mcm. **DO NOT TOUCH THE KEEP IT CLEAN MCM. YOU WILL BREAK EVERYTHING IF YOU DO. NO TOUCHIES. DO NOT PASS GO. DO NOT COLLECT $200.**
-
-- [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of these depending on what you want.
+- Survival. Simply turn off SunHelm in the mcm menu. **DO NOT DISABLE IT IN MOD ORGANIZER.** If you do not want to bathe, adjust Dirt&Blood in the mcm to your tastes.
 
 - [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
 
@@ -310,18 +308,15 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 - [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
-- [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
+-Gamepad Guide. Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-Upon pressing New Game, you will spawn on the walls of Helgen burning down. Use your mouse to manually click away the pop-ups. **DO NOT PRESS ENTER**. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below. **Use your mouse and do not press enter until you are done with MCM's +otherwise you will break stuff.**
+Upon pressing New Game, you will spawn in a room and go into character creation. After creating a character, wait until all of the messages in the top left corner of the screen finish loading. Adjust the mcms as described in the In-Game MCM option section. Please note that after creating your character, you cannot change your race or gender midgame- doing so will break things!  
 
-If you press enter, you will be teleported to a location where you will be able to personalize your character.
-After confirming your character, never use showracemenu to change its race or sex; you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
-
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
+After character creation and MCM setup, you are free to explore the room. Take a look around at the containers and whatever is on the table, they may be useful for your adventures. When you have finished examining the room, talk to the little dragon next to the door to select a start of your choice, then go through the door to begin your QWEST!
 
 ## Updating
 
@@ -354,12 +349,6 @@ Updating is like installing. You only have to make sure that you select the same
 - NPC :
   - Enable Weapons : Enabled
 
-#### Diverse Dragons Col. 3
-- Dragons
-  - Nether Dragon : Disabled
-  - Sanguine Dragon : Disabled
-  - Vile Dragon : Disabled
-
 #### EVG Conditional Idles
 - Player 
     - Modesty Male: Disabled
@@ -387,10 +376,6 @@ Updating is like installing. You only have to make sure that you select the same
 - Activation
   - Compass Activation
     - Key press toggles : Enabled
-
-#### Immersive W. Encounters
-- NEW EVENTS
-  - NPCs: Jarl's Housecarls: Disabled (causes issues)
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
@@ -429,12 +414,12 @@ Updating is like installing. You only have to make sure that you select the same
 #### SmoothCam  -for 3rd person players-
 - Presets
   - Load Preset
-    There are two presets available for you to use. I personally prefer the Modern one but some prefer EasyEase's, try both and see which you like!
+    There are two presets available for you to use. Try them both and see which one you prefer!
 - Compatibility 
   - Archery Gameplay Overhaul: Enabled
   - Only this one needs to be enabled!
 
-### Sunhelm (Do This after character creation and you have spawned into the world.)
+### Sunhelm
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
@@ -477,13 +462,6 @@ Cycle through all the tabs
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
 
-## How to start playing
-
-After you finish customizing all the MCMs, the last thing to check is the Skyrim Unbound MCM. You can safely experiment with all the options in there, EXCEPT choosing a Non-Dragonborn character.
-Anything else in that menu can be customized to your liking. When you're ready, simply press the Start Adventure button in the Unbound MCM. You will then be prompted to create your character as usual.
-
-Please Note: Do NOT change sex or race with showracemenu after first confirming your character.
-
 ## FAQ
 
 ## Removing the Modlist
@@ -501,10 +479,6 @@ Please report it in the support channel or in the relevant channel in the commun
 ## A face part is crashing me! | Some hair/facial hair clips!
 
 The face part is due to High Poly Head and is currently unfixable. The latter is a known issue and is currently being worked on.
-
-## I can't talk to NPCs!
-
-Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863).
 
 ## First Person animations are weird, how do I fix??
 
@@ -537,9 +511,7 @@ Should you wish to change the ENB follow this:
 
 ## How do I start the main quest?
 
-In order to start the main quest, you need to either hit the level you specified or the daytime specified in the Skyrim unbound MCM menu (this defaults to 7-21 days). Instead of doing the first few quests, you will be summoned by the Greybeards after killing the dragon.
-
-The way of becoming a thane of Whiterun is also changed. Complete The Blessings of Nature quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
+In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there. Once you sleep in the room, a familiar scene unfolds before you.....
 
 ## Creation Club (CC Content) Support?
 
@@ -554,7 +526,7 @@ I would advise you to donate to [Wabbajack](https://www.patreon.com/user/overvie
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Sovn for the creation of Qwest and allowing the team to take it over. This list would not exist without him intially creating it.
-- Chanka, Mint, Shuckleberry, Chris, Croc and Spaniard for making up the Qwest Team.
+- Mint, Shuckleberry, Chris, Croc and Spaniard for making up the Qwest Team, and all of the wonderful list devs and helpers at the Animonculory.
 - zino for testing 2.0 and onwards updates, allowing for accurate feedback on performance for 2GB GPUs.
 - My Amazing patrons
 
