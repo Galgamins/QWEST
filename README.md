@@ -414,7 +414,7 @@ Updating is like installing. You only have to make sure that you select the same
 #### SmoothCam  -for 3rd person players-
 - Presets
   - Load Preset
-    There are two presets available for you to use. Try them both and see which one you prefer!
+    There are three presets available for you to use. Try them out and see which one you prefer!
 - Compatibility 
   - Archery Gameplay Overhaul: Enabled
   - Only this one needs to be enabled!
