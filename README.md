@@ -511,7 +511,7 @@ Should you wish to change the ENB follow this:
 
 ## How do I start the main quest?
 
-In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there. Once you sleep in the room, a familiar scene unfolds before you.....
+In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there with the dialogue option "I'd like to stay for a while. (Start Intro (XX gold))". Once you sleep in the room, a familiar scene unfolds before you.....
 
 ## Creation Club (CC Content) Support?
 
