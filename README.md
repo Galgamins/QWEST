@@ -381,7 +381,6 @@ Updating is like installing. You only have to make sure that you select the same
 - Family Settings
     - Spouse Animation Settings → Exit Dialogue: Disabled
     - Children Animation Settings → Exit Dialogue: Disabled
-    - Toggle un/equipping Torso Armor: Enable 
 - General Settings
   - Camera Settings → Force View for Children: Disabled
   - Debug Tools → Open Relationship-editor: Set a hotkey of your choice. Sometimes npcs (usually 3dnpcs) get flagged as a spouse when you aren't married to them, and will have spouse dialogue for hugs. Use this hotkey and target the incorrectly flagged npc to set them as a friend if they are not your spouse.
