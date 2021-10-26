@@ -234,10 +234,6 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Post-Installation
 
-## Copy Game Folder Files
-
-When the installation is complete, copy the files in the `QWEST!\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m).
-
 ## Graphical Settings
 
 If you wish to change your ini settings, which is recommended if you have 2GB of vram, then navigate to BethINI which is located in `QWEST!\Tools` and run the program. Make sure that you select the correct profile you wish to play, these are show here for [EnaiRim](https://prnt.sc/10ha499) and [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
@@ -312,7 +308,9 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 ## How to start up QWEST!
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, you will see a dropdown menu on the left that says Qwest!, and you can choose your profile in there (the default profile is Enairim (Qwest!), and there is a Simonrim profile (Qwest!-Simonrim)). For more information on the profiles, see the changes to gameplay page.
+
+After making sure you are using the correct profile of your choosing, there is a  dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
 Upon pressing New Game, you will spawn in a room and go into character creation. After creating a character, wait until all of the messages in the top left corner of the screen finish loading. Adjust the mcms as described in the In-Game MCM option section. Please note that after creating your character, you cannot change your race or gender midgame- doing so will break things!  
 
@@ -406,13 +404,6 @@ Updating is like installing. You only have to make sure that you select the same
 #### OBIS - Bandits
 - Leave as is unless you want more bandits to fight.
 
-#### Radiant Requirements
-- Settings
-  - Draugr Crypt 5
-  - Forsworn Camp: 5
-  - Vampire Lair : 10
-  - Falmer Hive: 10
-
 #### SkyUI
 - General → Item List :
   - Font Size : Small
@@ -427,13 +418,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 #### SmoothCam  -for 3rd person players-
 - Presets
-  - Load Preset
-    There are three presets available for you to use. Try them out and see which one you prefer!
+  - Load Preset (There are three presets available for you to use. Try them out and see which one you prefer!)
 - Compatibility 
   - Archery Gameplay Overhaul: Enabled
   - Only this one needs to be enabled!
 
 ### Sunhelm
+- You can enable this if you wish to play with survival. Once enabled, back out of the mcm menu wait for all of the messages to finish loading, then go back into mcms.
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
