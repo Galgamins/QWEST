@@ -518,6 +518,8 @@ Should you wish to change the ENB follow this:
 
 In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there with the dialogue option "I'd like to stay for a while. (Start Intro (XX gold))". Once you sleep in the room, a familiar scene unfolds before you.....
 
+IMPORTANT: Please make sure to disable Survival Control Panel's "sleep to level up" feature in it's mcm BEFORE YOU SELECT THAT INNKEEPER DIALOGUE OPTION, and make sure you start the intro during the DAYTIME, not at night!! It will not work otherwise!
+
 ## Creation Club (CC Content) Support?
 
 Not supported.
