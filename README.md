@@ -184,27 +184,9 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 
 Whilst this list is aimed towards lower end PCs, that does not mean that an ENB is not an option for you. If you have 2GB of vram, it is advised that you test in game first to check your performance and then come back to this section.
 
-This list includes a custom tweaked variation of [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) that was specifically made for this list. To install this ENB, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher-end one ([as shown in this picture](http://prntscr.com/10e2odv) to your Skyrim SE Directory (where the game .exe is).
+This list includes a custom tweaked variation of [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) that was specifically made for this list. To install this ENB, open MO2, navigate in the dropdown menu on the right to select [ENB Manager](https://media.discordapp.net/attachments/897575788411514962/904131143450898472/unknown.png) and press the big run button. A new window will pop up. Ignore the error it gives you. On the left hand side, click the 3 lines to bring up a menu and click on [presets](https://cdn.discordapp.com/attachments/897575788411514962/904131693089271829/unknown.png). You will see a [new page](https://cdn.discordapp.com/attachments/897575788411514962/904132020626681916/unknown.png) with 2 options, Higher End and Lower End. Simply activate the preset of your choosing by clicking on the little switch underneath the preset name- if it is blue, it is active! You can then exit the enb manager. If you wish to change your preset at any time, simply navigate back to the enb manager, open the presets tab, and switch presets accordingly.
 
 On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini Preset. This is very dependent on your PC, however, so your mileage may vary.
-
-If you find that the ENB is too intensive for your system, you can try a ReShade preset which can offer a similar style of graphics but with much less performance cost. Here are three Reshades that are recommended for usage with QWEST!
-
-- [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
-- [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
-- [Lucid-Icrous Lightweight](https://www.nexusmods.com/skyrimspecialedition/mods/45771)
-
-To install a reshade follow these instructions:
-
-- Download the latest ReShade Version from [here](https://reshade.me/)
-- Open ReShade.exe, Select SkyrimSE.exe as the game you want to install it to. 
-- Select Direct3D 10/11/12 as the rendering API
-- Check/Tick every single box until ReShade is installed.
-Now we'll go back to the presets downloaded
-- Open the ReShade Preset archive and paste it to your game folder.
-- When Skyrim launches (Refer to the next step in the readme if lost on this step), press the home button on your keyboard and select the .ini file you just put in your Skyrim Folder as the loaded .ini
-- Press home again to close the window.
-Know that you can switch any ini at anytime during your gameplay, so if you want to compare between the 2 that I recommend, you can totally do that in game.
 
 ## Personalisation
 
@@ -224,7 +206,7 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, you will see a dropdown menu on the left that says Qwest!, and you can choose your profile in there (the default profile is Enairim (Qwest!), and there is a Simonrim profile (Qwest!-Simonrim)). For more information on the profiles, see the changes to gameplay page.
 
-After making sure you are using the correct profile of your choosing, there is a  dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+After making sure you are using the correct profile of your choosing, there is a  dropdown box on the top right and a big run button next to it. Ensure it is set to "Go on a QWEST!" by selecting it in the dropdown box and then hitting the run button.
 
 Upon pressing New Game, you will spawn in a room and go into character creation. After creating a character, wait until all of the messages in the top left corner of the screen finish loading. Adjust the mcms as described in the In-Game MCM option section. Please note that after creating your character, you cannot change your race or gender midgame- doing so will break things!  
 
