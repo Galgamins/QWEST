@@ -145,6 +145,8 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
+### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
+
 ## Game Folder
 The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
@@ -222,7 +224,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-**For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
+### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 ## In-Game MCM Options
 
