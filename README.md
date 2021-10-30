@@ -63,7 +63,9 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+**Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 #### Steam Config
 
@@ -145,96 +147,6 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Game Folder
 The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
-
-## Installation
-
-### Pre-Installation
-
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
-
-#### Installing Microsoft Visual C++ Redistributable Package
-
-The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
-
-**Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!! The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.**
-
-#### Steam Config
-
-##### Disable the Steam Overlay
-
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
-
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-#### Change Steams Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
-#### Set the Game language and Windows Region to English
-
-This entire Modlist is in English and 99% of all mods you will find are also in English. Some mods can break when using a non English version of Windows. Ensure that your Windows Regional Format is set to English. 
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
-
-#### Clean Skyrim
-
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
-
-### It is *vital* that your Binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
-
-#### Start Skyrim
-
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
-Start the game and exit once you're in the main menu.
-
-### Using Wabbajack
-
-#### Preparations
-
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, OneDrive or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
-
-#### Downloading and Installing
-
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
-
-To prepare the download, and make sure Wabbajack doesn't stall on those files; download those 4 mods manually: 
-- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
-- https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
-- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
-- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
-
-1. Open Wabbajack and click on browse modlists.
-2. Download the modlist from the Wabbajack UI.
-3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/QWEST`). The downloads path should automatically fill in the installation path.
-4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-5. Select the created folder in 4. as your downloads folder. Place the downloaded MEGA files above AS IS in the downloads folder.
-6. Click the Go/Begin button
-7. Wait for Wabbajack to finish
-8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
-
-##### Problems with Wabbajack
-
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
-
-**Could not download x**:
-
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
-
-**x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
-
-**Wabbajack could not find my game folder**:
-
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
-
-**Windows is reporting that a virus has been detected**:
-
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
-
-### Post-Installation
 
 ## Graphical Settings
 
@@ -327,6 +239,8 @@ If this Modlist receives an update, please check the Changelog before doing anyt
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+**For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 ## In-Game MCM Options
 
