@@ -154,7 +154,9 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+**Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!! The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.**
 
 #### Steam Config
 
@@ -336,16 +338,6 @@ Updating is like installing. You only have to make sure that you select the same
     - Arrow Wounds (Player) : Disabled
     - Arrow Wounds (NPCs) : Disabled
     - Persistant Arrows : Disabled
-    
-#### All Geared up Derivative
-- Weapons - Player
-    - Shield Stay on arm while Equipped: Enable
-    - Toggle un/equipping Torso Armor: Enable 
-- Misc. Player :
-  - Require Torso Armor : Enabled
-  - (you can tweak stuff showing on you whenever you want, if something bothers you)
-- NPC :
-  - Enable Weapons : Enabled
 
 #### EVG Conditional Idles
 - Player 
@@ -354,11 +346,6 @@ Updating is like installing. You only have to make sure that you select the same
 - NPC 
     - Modesty Male: Disabled
     - Modesty Female: Disabled
-
-#### Follower Framework
-- System :
-- Settings
-  - Load From File
 
 #### Growl Werebeasts (EnaiRim)
 - Features
@@ -369,11 +356,6 @@ Updating is like installing. You only have to make sure that you select the same
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
-  
-#### Immersive HUD
-- Activation
-  - Compass Activation
-    - Key press toggles : Enabled
 
 #### I'm Glad You're Here
 - Family Settings
@@ -396,32 +378,12 @@ Updating is like installing. You only have to make sure that you select the same
   - Player Houses: Enabled
   - A lot of stuff is very nice in LOTD's MCMs, you should check them all just to know what they do, it'll be useful on the long run.
 
-#### moreHUD
+#### OBIS - Patrols
+- Enable
+
+#### SmoothCam
 - Presets
-  - Save Settings with FISS
-    - Load User Settings? : GO
-
-#### OBIS - Bandits
-- Leave as is unless you want more bandits to fight.
-
-#### SkyUI
-- General → Item List :
-  - Font Size : Small
-  - Category Icon Theme : CELTIC
-- Advanced → SWF Version Checking : 
-  - Map Menu : Disabled
-  - Favorites Menu : Disabled
-  - Inventory Menu : Disabled
-  - Barter Menu : Disabled
-  - Container Menu : Disabled
-  - Crafting Menu : Disabled
-
-#### SmoothCam  -for 3rd person players-
-- Presets
-  - Load Preset (There are three presets available for you to use. Try them out and see which one you prefer!)
-- Compatibility 
-  - Archery Gameplay Overhaul: Enabled
-  - Only this one needs to be enabled!
+  - Load Preset (There are three presets available for you to use. Vanilla Enhanced Camera is already loaded for you automatically by default. Try them out and see which one you prefer!)
 
 ### Sunhelm
 - You can enable this if you wish to play with survival. Once enabled, back out of the mcm menu wait for all of the messages to finish loading, then go back into mcms.
@@ -453,15 +415,6 @@ Updating is like installing. You only have to make sure that you select the same
   - Load Preset  
 Cycle through all the tabs
  - Load Preset again (now it will stick)
-  
-#### Timing is Everything
-- Extra Options 
-  - Load Preset  
-Cycle through all the tabs
- - Load Preset again (now it will stick)
-
-#### VioLens
-- Load Preset
 
 #### Wildcat (EnaiRim)
 - Disable Injuries: Enabled
