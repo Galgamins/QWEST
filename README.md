@@ -65,7 +65,7 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-**Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
+### **Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!! This is a new update and it is most likely that you DO NOT have this yet!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 #### Steam Config
 
@@ -145,7 +145,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
+### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!! This is a new update and it is most likely that you DO NOT have this yet!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 ## Game Folder
 The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
@@ -224,7 +224,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
+### **For Version 3.8 update: Please also make sure to install Microsoft .Net Runtime v5 so that mo2 can launch the list!!! This is a new update and it is most likely that you DO NOT have this yet!** The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime), install the desktop x64 version.
 
 ## In-Game MCM Options
 
@@ -276,14 +276,11 @@ Updating is like installing. You only have to make sure that you select the same
   - Player Houses: Enabled
   - A lot of stuff is very nice in LOTD's MCMs, you should check them all just to know what they do, it'll be useful on the long run.
 
-#### OBIS - Patrols
-- Enable
-
 #### SmoothCam
 - Presets
   - Load Preset (There are three presets available for you to use. Vanilla Enhanced Camera is already loaded for you automatically by default. Try them out and see which one you prefer!)
 
-### Sunhelm
+#### Sunhelm
 - You can enable this if you wish to play with survival. Once enabled, back out of the mcm menu wait for all of the messages to finish loading, then go back into mcms.
 - General Settings
 	- Gameplay Options
