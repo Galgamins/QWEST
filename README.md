@@ -143,7 +143,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-### Post-Installation
+## Post-Installation
 
 ## Game Folder
 The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
