@@ -317,7 +317,7 @@ Cycle through all the tabs
 
 ## Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+You can just remove the MO2 folder and be done with it.
 
 ## Ultrawide Options
 
@@ -327,9 +327,9 @@ Although I do not see why someone would have such a screen with the targeted min
 
 Please report it in the support channel or in the relevant channel in the community server.
 
-## A face part is crashing me! | Some hair/facial hair clips!
+## Some hair/facial hair clips!
 
-The face part is due to High Poly Head and is currently unfixable. The latter is a known issue and is currently being worked on.
+The clipping is due to High Poly Head and is currently unfixable. 
 
 ## First Person animations are weird, how do I fix??
 
