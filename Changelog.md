@@ -14,6 +14,7 @@
 - Regenerated generated files
 - Switched to Stock Game to simplify installation process
 - Automated serveral MCM's
+-Fixed some stuff, added some stuff, removed some stuff, have fun on your QWEST! 
 
 **Info**:
 
