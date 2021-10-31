@@ -4,7 +4,7 @@ Almost every aspect of vanilla gameplay in QWEST! has been changed in some way. 
 Qwest has two profiles of your choosing, with default profile utilizing the [EnaiRim suite](https://www.nexusmods.com/skyrimspecialedition/users/3959191) of mods, or the [Simonrim Suite](https://www.nexusmods.com/skyrimspecialedition/users/67410746), if you choose the Simonrim profile, to provide the bulk of the perk/player character changes. 
 
 ## Survival
-Survival is optional in QWEST! and can be adjusted in the Sunhelm MCM and Dirt&Blood MCM accordingly. With survival enabled:
+Survival is optional in QWEST! and can be adjusted in the Sunhelm MCM, Survival Control Panel and Dirt&Blood MCM accordingly. With survival enabled:
 
 1. You will need to eat and sleep to survive. 
 2. You will need to survive the cold or your stamina will drain and you'll die. 
