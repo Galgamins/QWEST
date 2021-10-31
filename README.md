@@ -276,7 +276,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 #### SmoothCam
 - Presets
-  - Load Preset (There are three presets available for you to use. Vanilla Enhanced Camera is already loaded for you automatically by default. Try them out and see which one you prefer!)
+  - Load Preset (There are three presets available for you to use. Try them out and see which one you prefer!)
 
 #### Sunhelm
 - You can enable this if you wish to play with survival. Once enabled, back out of the mcm menu wait for all of the messages to finish loading, then go back into mcms.
