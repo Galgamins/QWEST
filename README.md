@@ -1,6 +1,6 @@
 # QWEST
 
-![QWEST-banner](https://raw.githubusercontent.com/Althro/QWEST/main/QWEST_New.webp?token=AQ4T6WOOLOYTZRJ54WSH3W3BLDSXW)
+![QWEST-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST_New.webp)
 
 Wabbajack Modlist Installer by The Animonculory.
 
@@ -108,10 +108,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-To prepare the download, and make sure Wabbajack doesn't stall on those files; download those 4 mods manually: 
-- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
+To prepare the download, and make sure Wabbajack doesn't stall on those files; download these 2 mods manually: 
 - https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
-- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
 
 1. Open Wabbajack and click on browse modlists.
