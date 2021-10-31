@@ -190,7 +190,7 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 ## Personalisation
 
-- Survival. Simply turn off SunHelm in the mcm menu. **DO NOT DISABLE IT IN MOD ORGANIZER.** If you do not want to bathe, adjust Dirt&Blood in the mcm to your tastes.
+- Survival. Simply turn off SunHelm in the mcm menu. **DO NOT DISABLE IT IN MOD ORGANIZER.** You can also adjust survival control panel mcm to your preferences. If you do not want to bathe, adjust Dirt&Blood in the mcm to your tastes.
 
 - [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
 
