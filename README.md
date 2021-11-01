@@ -196,7 +196,7 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 - NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile (Adamant for Simonrim, Ordinator for Enairim/Default Profile)
 
-- [Quick Loot](https://cdn.discordapp.com/attachments/897575788411514962/904770688718626826/unknown.png). Disabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. (It's under the "HUD" Separator in MO2)
+- [Quick Loot](https://cdn.discordapp.com/attachments/897575788411514962/904770688718626826/unknown.png). Disabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. (It's under the "Quality of Life" Separator in MO2)
 
 - Gamepad Guide. Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
