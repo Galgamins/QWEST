@@ -194,8 +194,6 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 - [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
 
-- [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an Oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png).
-
 - NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile (Adamant for Simonrim, Ordinator for Enairim/Default Profile)
 
 - [Quick Loot](http://prntscr.com/10eh3rd). Disabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. (It's under the "Quality of Life" Separator in MO2)
