@@ -389,7 +389,7 @@ Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaj
 
 ## Contributing
 
-See [Contributing](https://github.com/Althro/QWEST/blob/main/CONTRIBUTING.md).
+See [Contributing](https://github.com/Althro/QWEST/blob/main/Contributing.md).
 
 ## Changelog
 
