@@ -150,7 +150,7 @@ The installation will create a copy of your Skyrim Special Edition game in Insta
 
 ## Graphical Settings
 
-If you wish to change your ini settings, which is recommended if you have 2GB of vram, then navigate to BethINI which is located in `QWEST!\Tools` and run the program. Make sure that you select the correct profile you wish to play, these are show here for [EnaiRim](https://prnt.sc/10ha499) and [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
+If you wish to change your ini settings, which is recommended if you have 2GB of vram, then navigate to BethINI which is located in `QWEST!\Tools` and run the program. Make sure that you select the correct profile you wish to play, these are show here for [EnaiRim](https://cdn.discordapp.com/attachments/877299353264472084/887463190621986846/unknown.png) and [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
 
 Listed below is some information regarding the presets in BethINI
 
