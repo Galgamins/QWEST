@@ -196,7 +196,7 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 - [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an Oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png).
 
-- NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile.
+- NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile (Adamant for Simonrim, Ordinator for Enairim/Default Profile)
 
 - [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
