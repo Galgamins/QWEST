@@ -196,7 +196,7 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 - NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile (Adamant for Simonrim, Ordinator for Enairim/Default Profile)
 
-- [Quick Loot](http://prntscr.com/10eh3rd). Disabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. (It's under the "Quality of Life" Separator in MO2)
+- [Quick Loot](https://cdn.discordapp.com/attachments/897575788411514962/904770688718626826/unknown.png). Disabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. (It's under the "HUD" Separator in MO2)
 
 - Gamepad Guide. Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
@@ -324,6 +324,11 @@ Although I do not see why someone would have such a screen with the targeted min
 ## I have a question/ I found a bug
 
 Please report it in the support channel or in the relevant channel in the community server.
+
+## The dialogue camera makes me sick/I don't like it!
+If The dialogue conversation camera (which is Witcher style) isn't your jam or is making you sick, I have a simple fix for you.  
+
+IN MO2, search for [Alternate Conversation Camera Fixed](https://cdn.discordapp.com/attachments/878666145702481930/904765170784550932/unknown.png). Right click it, open in explorer. Navigate through SKSE>Plugins and open the .ini file in there. You will see a setting that says bswitchtarget=1 you can set this to bswitchtarget=0 to make the camera stop switching in dialogue.
 
 ## Some hair/facial hair clips!
 
