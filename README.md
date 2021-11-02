@@ -335,7 +335,6 @@ IN MO2, search for [Alternate Conversation Camera Fixed](https://cdn.discordapp.
 There are also other settings in here that you can tweak to your preferences, such as:
 - Camera speed if you want to keep the witcher-style camera, but slow it down, perhaps, fcameraspeed=500 is default speed, increase this number to slow it down.
 - Forcing third person can be turned off by bforcethirdperson=0
-- Hiding the dialogue menu while the npc is talking, turn it on via bhidedialoguemenu=1
 - Enable letterbox if you want it to look cinematic and you don't have enb letterbox on. bletterbox=1
 
 If you just want the vanilla dialogue camera back, you can safely disable Alternate Conversation Camera in MO2.
