@@ -206,7 +206,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 After making sure you are using the correct profile of your choosing, there is a  dropdown box on the top right and a big run button next to it. Ensure it is set to "Go on a QWEST!" by selecting it in the dropdown box and then hitting the run button.
 
-Upon pressing New Game, you will spawn in a room and go into character creation. After creating a character, wait until all of the messages in the top left corner of the screen finish loading. Click away any popups (if smoothcam tells you it can't load a preset, that's normal and fine!) Adjust the mcms as described in the In-Game MCM option section. Please note that after creating your character, you cannot change your race or gender midgame- doing so will break things!  
+Upon pressing New Game, you will spawn in a room and go into character creation (you'll get an message about smoothcam when you load in, it's okay and you can ignore it!) After creating a character, wait until all of the messages in the top left corner of the screen finish loading. Click away any popups. Adjust the mcms as described in the In-Game MCM option section. Please note that after creating your character, you cannot change your race or gender midgame- doing so will break things!  
 
 After character creation and MCM setup, you are free to explore the room. Take a look around at the containers and whatever is on the table, they may be useful for your adventures. When you have finished examining the room, talk to the little dragon next to the door to select a start of your choice, then go through the door to begin your QWEST!
 
