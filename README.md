@@ -325,10 +325,18 @@ Although I do not see why someone would have such a screen with the targeted min
 
 Please report it in the support channel or in the relevant channel in the community server.
 
-## The dialogue camera makes me sick/I don't like it!
+## The dialogue camera makes me sick/I want to adjust the dialogue camera!
 If The dialogue conversation camera (which is Witcher style) isn't your jam or is making you sick, I have a simple fix for you.  
 
 IN MO2, search for [Alternate Conversation Camera Fixed](https://cdn.discordapp.com/attachments/878666145702481930/904765170784550932/unknown.png). Right click it, open in explorer. Navigate through SKSE>Plugins and open the .ini file in there. You will see a setting that says bswitchtarget=1 you can set this to bswitchtarget=0 to make the camera stop switching in dialogue.
+
+There are also other settings in here that you can tweak to your preferences, such as:
+- Camera speed if you want to keep the witcher-style camera, but slow it down, perhaps, fcameraspeed=500 is default speed, increase this number to slow it down.
+- Forcing third person can be turned off by bforcethirdperson=0
+- Hiding the dialogue menu while the npc is talking, turn it on via bhidedialoguemenu=1
+- Enable letterbox if you want it to look cinematic and you don't have enb letterbox on. bletterbox=1
+
+If you just want the vanilla dialogue camera back, you can safely disable Alternate Conversation Camera in MO2.
 
 ## Some hair/facial hair clips!
 
