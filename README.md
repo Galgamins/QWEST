@@ -337,6 +337,8 @@ There are also other settings in here that you can tweak to your preferences, su
 - Forcing third person can be turned off by bforcethirdperson=0
 - Enable letterbox if you want it to look cinematic and you don't have enb letterbox on. bletterbox=1
 
+You can also download [Mint's Alt Convo Cam preset](https://drive.google.com/file/d/1gVmpKLtMFcbAuwsqOT-qDbhBPifueZ3O/view?usp=sharing), which slows down the camera, turns off forced third person and enables letterbox, to make talking to Baalgruf feel like a movie scene. Place the .ini file where Alternate Conversation Camera's folder is in MO2, replacing the current .ini in there.
+
 If you just want the vanilla dialogue camera back, you can safely disable Alternate Conversation Camera in MO2.
 
 ## Some hair/facial hair clips!
