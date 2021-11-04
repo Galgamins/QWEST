@@ -309,6 +309,10 @@ Updating is like installing. You only have to make sure that you select the same
 Cycle through all the tabs
  - Load Preset again (now it will stick)
 
+#### True Directional Movement
+- Target Lock
+  - Toggle Target Lock: Set a hotkey to this if you want to have a target lock in third person!
+
 #### Wildcat (EnaiRim)
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
