@@ -360,6 +360,9 @@ The clipping is due to High Poly Head and is currently unfixable.
 - Quarter Staffs get War Hammer perks
 - Claws get dagger perks
 - Whips get mace perks
+- Spears get greatsword perks
+- Short spears get sword perls
+
 
 ## My character T-Poses!
 
